@@ -1,4 +1,3 @@
-# Deep-Learning-Computer-Vision-Portfolio
 # Deep Learning & Computer Vision Portfolio
 
 ## 📖 Overview
